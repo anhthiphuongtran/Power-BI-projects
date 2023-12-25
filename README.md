@@ -5,4 +5,5 @@
 
 * Here is [a Sales Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzQwNWI3Y2EtMDFiMi00NzhiLThmMmMtY2U2MGEwM2U4NDk1IiwidCI6ImNjYTc2ZTU2LWJhYzQtNDQzYS05ZWMxLWE1NGE5Njc3NDUyNSIsImMiOjEwfQ%3D%3D) developed based on `Sales data.xlsx`.
 
-* Here is [another Power BI dashboard exhibiting the result of a survey regarding data professions](https://app.powerbi.com/view?r=eyJrIjoiYzFjMDc1ZTQtZmQxMS00N2EzLWFiYmYtNWRjYWUxNDVkOTAyIiwidCI6ImNjYTc2ZTU2LWJhYzQtNDQzYS05ZWMxLWE1NGE5Njc3NDUyNSIsImMiOjEwfQ%3D%3D) developed using survey data.
+* Here is [another Power BI dashboard exhibiting the result of a survey regarding data professions](https://app.powerbi.com/view?r=eyJrIjoiYzFjMDc1ZTQtZmQxMS00N2EzLWFiYmYtNWRjYWUxNDVkOTAyIiwidCI6ImNjYTc2ZTU2LWJhYzQtNDQzYS05ZWMxLWE1NGE5Njc3NDUyNSIsImMiOjEwfQ%3D%3D). Examine 
+`Survey Data.xlsx` for the details of the dataset.
